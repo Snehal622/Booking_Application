@@ -1,2 +1,2 @@
-# Booking_Application
- Using HTML CSS & JS
+# Booking-Application
+ this repository is for event conducted at Qspider 
